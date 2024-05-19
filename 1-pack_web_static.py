@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-a Fabric script that generates a .tgz archive from the contents of the web_static folder of your AirBnB Clone
+a Fabric script that generates a .tgz archive from the contents of the web_static folder
 execute: fab -f 1-pack_web_static.py do_pack
 """
 
